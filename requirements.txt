@@ -1,0 +1,6 @@
+streamlit
+pickle
+requests
+json
+streamlit_lottie
+streamlit.components.v1
